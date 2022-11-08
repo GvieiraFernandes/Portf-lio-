@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <link rel="stylesheet" href="contato.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,900;1,400&family=Rationale&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,900;1,400&family=Staatliches&display=swap" rel="stylesheet">
+</head>
+<title>Contato - Gabriel Vieira</title>
+<body>
+    <header>
+        <img id="logo" src="LOGO.png" >
+        <ul id="lista1">
+            <li> <a class="link" href="trabalho.html">Trabalhos</a>  <a class="link"href="index.html" >Sobre</a>    <a class="link"href="contato.html" >Contato </a></li>
+        </ul>
+    </header>
+<hr id="linha">
+
+    <p id="txtcnt">Contato </p>
+
+    <div id="app">
+        <img src="linkedin.png" width="7%">
+        <img src="github.png" width="7%">  
+    </div>
+
+<div>
+    <p id="nome">Nome</p>
+    <input id="boxnome" width="10%" required>
+
+     <p id="telefone">Telefone</p>
+     <input type="tel" placeholder="(31)99999-9999" id="boxtelefone"  oninput=mascara_telefone() maxlegth="14" width="10%">
+
+    <p id="mensagem">Mensagem</p>
+    <input id="boxmensagem" required>
+
+    <button id="botao">Enviar</button>
+</div>
+
+
+<img id="logo2"src="LOGO.png" >
+
+    <script src="contato.js"></script>
+<h1 class="branco">⠀</h1>
+</body>
+</html>

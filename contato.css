@@ -1,0 +1,145 @@
+body {
+    background-color: #040F1C;
+  
+}
+
+#logo {
+    width: 8%;
+}
+
+#lista1 {
+color: white;
+list-style: none;
+display: flex;
+margin-left: 20%;
+margin-top: -4.5%;
+word-spacing: 80px;
+font-family: 'Lato', sans-serif;
+font-family: 'Rationale', sans-serif;
+font-size: 35px;
+}
+
+#linha {
+    margin-top: 2%;
+  
+}
+
+#imgcontato {
+width: 50%;
+margin-top: -10%;
+z-index: -2px;
+}
+
+#txtcnt{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 100px;
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#app {
+    text-align: center;
+    margin-top: -1%;
+ 
+}
+
+#nome {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: 5%;
+    margin-left: 11%;
+}
+
+#boxnome {
+box-sizing: border-box;
+position: absolute;
+width: 20%;
+height: 2%;
+background: #06060B;
+border: 1px solid #1B1F32;
+border-radius: 10px;
+margin-left: 10%;
+color: white;
+font-family: 'Lato', sans-serif;
+font-family: 'Rationale', sans-serif;
+}
+
+#telefone {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+
+#boxtelefone {
+box-sizing: border-box;
+position: absolute;
+width: 20%;
+height: 2%;
+background: #06060B;
+border: 1px solid #1B1F32;
+border-radius: 10px;
+margin-left: 10%;
+color: white;
+font-family: 'Lato', sans-serif;
+font-family: 'Rationale', sans-serif;
+}
+
+#mensagem {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 7%;
+    margin-left: 11%;
+
+}
+
+#boxmensagem {
+box-sizing: border-box;
+position: absolute;
+width: 20%;
+height: 15%;
+margin-left: 10%;
+background: #06060B;
+border: 1px solid #1B1F32;
+border-radius: 10px;
+color: white;
+font-family: 'Lato', sans-serif;
+font-family: 'Rationale', sans-serif;
+}
+
+#botao {
+    position: absolute;
+    width: 20%;
+    height: 3%;
+    background: #0D1533;
+    border-radius: 50px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    color: #6B95FF;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+#logo2 {
+    margin-left: 50%;
+    width: 30%;
+    margin-top: -15%;
+}
+.branco{
+    margin-top: 10%;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,234 @@
+
+body {
+    background-color: #040F1C;
+}
+
+#logo {
+    width: 15%;
+}
+
+#lista1 {
+color: white;
+list-style: none;
+display: flex;
+margin-left: 25%;
+margin-top: -10%;
+word-spacing: 80px;
+font-family: 'Lato', sans-serif;
+font-family: 'Rationale', sans-serif;
+font-size: 35px;
+}
+
+#linha {
+    margin-top: 2%;
+  
+}
+
+#nome {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 100px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#nome2 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    margin-left: 10%;
+    font-size: 40px;
+    word-spacing: 10px;
+    margin-top: -3%;
+}
+
+#img1 {
+    width: 40%;
+    margin-left: 60%;
+    margin-top: -22%;
+    border-radius: 5px;
+    
+}
+
+#botao1 {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 20px;
+    margin-left: 10%;
+    border-radius: 7px;
+    width: 15%;
+    background-color: #020075;
+    color:#00DBFF;
+    height: 5%;
+}
+
+#seta {
+    width: 30%;
+    margin-top: 25%;
+}
+
+#nuvem {
+    width: 40%;
+}
+
+#botao2 {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    width: 15%;
+    margin-left: 80%;
+    
+}
+
+#paragrafo {
+    color: white;
+    margin-left: 80%;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 13px;
+    margin-top: -37%;
+}
+
+#texto1 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 13px;
+    margin-top: -30%;
+    margin-left: 18%;
+    line-height: 35px;
+}
+
+#logo2 {
+    margin-left: 26%;
+    width: 17%;
+}
+
+
+#texto2 {
+    color:white;
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+}
+
+#texto3 {
+    color:white;
+    margin-left: 20%;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    margin-top: -1%;
+}
+
+.linhadiv {
+    width: 12%;
+    margin-left: 20%;
+}
+
+#imghtml5 {
+    width: 5%;
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+#html5 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-top: -4%;
+    margin-left: 32%;
+}
+
+
+#imgcss {
+    width: 4%;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+#css {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-left: 32%;
+    margin-top: -4%;
+}
+
+#logoapps {
+    width: 30%;
+    margin-left: 60%;
+    margin-top: -25%;
+}
+
+
+#imgjava {
+    width: 8%;
+    margin-left: 18.8%;
+    margin-top: -0.3%;
+}
+
+#java {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-left: 32%;
+    margin-top: -7%;
+}
+
+
+
+#imgcp {
+    width: 8%;
+    margin-left: 19.3%;
+    margin-top: -0.3%;
+}
+
+#cp {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-left: 32%;
+    margin-top: -7%;
+}
+
+#imgphp {
+    width: 8%;
+    margin-left: 19.3%;
+    margin-top: 0.4%;
+}
+
+#php {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-left: 32%;
+    margin-top: -2%;
+}
+
+#imgmysql {
+    width: 8%;
+    margin-left: 19.3%;
+    margin-top: 0.4%;
+}
+
+#mysql {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif; 
+    font-size: 13px;
+    margin-left: 32%;
+    margin-top: -3%;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
